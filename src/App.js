@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="App">
-    <button omClick={onClose}> Close </button>
+    <button onClick={onClose}> Close </button>
     </div>
   );
 }
