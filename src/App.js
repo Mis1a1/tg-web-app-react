@@ -2,7 +2,6 @@ import { useEffect } from 'react';
 import './App.css';
 import Header from './components/Header/Header'
 import { UseTelegram } from './hooks/useTelegram';
-const tg = window.Telegram.WebApp;
 
 
 
